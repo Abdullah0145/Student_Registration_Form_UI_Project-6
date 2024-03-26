@@ -1,0 +1,14 @@
+/* span#header1 {
+
+} */
+
+span#header1 img {
+    border: 1px solid red;
+}
+
+span#header1 h2 {
+    border: 1px solid blue;
+}
+
+/* fieldset {
+} */
